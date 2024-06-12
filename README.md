@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igormachado715" alt="igormachado715" /></a> </p>
 
-- 🔭 I’m currently working on **Cripto Bot**
+- 🔭 I’m currently working on **Cripto Bot, Binance Applications and and improving my knowledge with various applications and technologies by solving problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
